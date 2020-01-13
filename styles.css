@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Mukta+Vaani|Roboto&display=swap');
+
+body {
+    width: 70%;
+    margin: 0 auto;
+    background: aliceblue;
+    border-bottom: 10px solid darkblue;
+}
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2em;
+    font-weight: normal;
+    font-style:oblique;
+    color: #eee;
+    background: rgb(44,55,140);
+}
+h2 {
+    font-family: 'Roboto', sans-serif;
+    color:cornflowerblue;
+    font-weight:normal;
+}
+h3 {
+    font-family: 'Mukta Vaani', sans-serif;
+    color:cornflowerblue;
+    font-weight:normal;
+}
+h4 {
+    color:cornflowerblue;
+    font-weight:normal;
+    font-style: italic;
+}
+p {
+    font-family: Arial;
+}
+aside {
+    width 25%: block;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    float: right;
+    box-shadow: inset 3px 0 3px -3px #29620e;
+    font-style: italic;
+    color: #29620e;
+}
+header {
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+}
+.role {
+    color:aqua;
+    font-weight:normal
+}
