@@ -1,34 +1,82 @@
 @import url('https://fonts.googleapis.com/css?family=Mukta+Vaani|Roboto&display=swap');
 
+a:link {
+
+}
+
+a:visited {
+    font-weight: lighter;
+}
+
+a:hover, a:focus, a:active  {
+    background-color: darkgray;
+    font-weight: bold;
+}
+
+a[title] {
+}
+
 body {
+    float: center;
     width: 70%;
     margin: 0 auto;
     background: aliceblue;
-    border-bottom: 10px solid darkblue;
+    border-bottom: 10px solid #00698b;
 }
 h1 {
     font-family: 'Roboto', sans-serif;
-    font-size: 2em;
+    font-size: 5em;
     font-weight: normal;
-    font-style:oblique;
-    color: #eee;
-    background: rgb(44,55,140);
+    font-style:normal;
+    text-align:right;
+    padding: 5px 10px 5px 5px;
+    color: #ffffff;
+    background: #00698b;
 }
 h2 {
     font-family: 'Roboto', sans-serif;
-    color:cornflowerblue;
+    color: #00698b;
     font-weight:normal;
 }
 h3 {
     font-family: 'Mukta Vaani', sans-serif;
-    color:cornflowerblue;
+    color: #00698b;
     font-weight:normal;
 }
 h4 {
-    color:cornflowerblue;
+    color: #00698b;
     font-weight:normal;
     font-style: italic;
 }
+
+nav {
+  width: 100px;
+  float: left;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav ul {
+  list-style: none;
+  margin: 12px 0px 0px 0px;
+  padding: 0px;
+}
+
+nav ul li {
+  border-bottom: 1px solid #ffffff;
+}
+
+nav ul li a:link, nav ul li a:visited {
+  font-size: 10pt;
+  font-weight: bold;
+  display: block;
+  padding: 3px 0px 3px 3px;
+  background-color: #00698B;
+  color: #ffffff;
+}
+
 p {
     font-family: Arial;
 }
@@ -37,14 +85,14 @@ aside {
     padding-left: .5rem;
     padding-right: .5rem;
     float: right;
-    box-shadow: inset 3px 0 3px -3px #29620e;
+    box-shadow: inset 3px 0 3px -3px #00698b;
     font-style: italic;
-    color: #29620e;
+    color: #00698b;
 }
 header {
     margin: 0;
     padding: 0;
-    background-color: aliceblue;
+    background-color: #00698b;
 }
 .role {
     color:aqua;
