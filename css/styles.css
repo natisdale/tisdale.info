@@ -1,0 +1,109 @@
+@charset "UTF-8";
+
+body {
+	background-color: black;
+}
+#container {
+	min-width: 400px;
+	max-width: 1000px;
+	min-height: 750px;
+	margin: 0 auto;
+	padding: 0;
+	background-image: url(../images/background-header.png);
+	background-repeat: repeat-y;
+}
+#logo {
+	float: left;
+	margin-top: 0px;
+	margin-right: 5px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#logo_last_name {
+	padding-left: 1em;
+}
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+nav a {
+	display: inline-block;
+	width: auto;
+	margin: 1%;
+	padding: .5% 1%;
+	float: right;
+	text-decoration: none;
+	text-align: center;
+	color: #51c2ff;
+	font-family: din-condensed, sans-serif;
+	font-size: 1.3em;
+	font-weight: bold;	
+}
+#active {
+	text-decoration: underline;
+}
+main {
+	clear: both;
+	color: #c6eafd;
+	padding-top: 30px;
+	min-height: 500px;
+	background-image: url(../images/background-main.png);
+}
+footer {
+	background-image: url(../images/background-main.png);
+	height: 100px;
+}
+.social img {
+	margin: 33px;
+	width: 30px;
+	height: 30px;
+}
+.social {
+	float: left;
+}
+.academic {
+	padding: 50px 0px;
+}
+.project {
+	width:50%;
+	padding: 5px 0px;
+}
+.cert {
+	padding: 30px 0px;
+}
+.cred {
+	font-family: aria-text-g2, sans-serif;
+	margin: 5px 0px 5px 140px;
+	font-size: 1.3em;
+}
+.detail {
+	font-family: aria-text-g2, sans-serif;
+	margin: 5px 0px 5px 140px;
+	font-size: 1.2em;
+	padding: 5px 0px;
+}
+.year {
+	margin: 50px 0px 0px 25px;
+	font-family: trajan-pro-3, serif;
+	font-size: 1.6em;
+}
+.institution {
+	font-family: trajan-pro-3, serif;
+	font-size: 1.6em;
+	margin: 50px 0px 0px 63px;
+}
+#portrait {
+	position: relative;
+	bottom: 508px;
+	left: 405px;
+}
+#cins465 {
+	display: inline; 
+	position: relative;
+	bottom: -10px;
+	left: 130px;
+}
+.super {
+	vertical-align: super;
+}
