@@ -19,6 +19,13 @@
 	</header>
 	<main>
 		<div class="project">
+			<h2><span class="year">2020</span><span class="institution">iMessage Stickers</span></h2>
+			<p class="detail">Summary: Sticker App for iMessage on iPhone/iPad devices</p>
+			<div class="detail" id="straightish">
+				<a href="https://apps.apple.com/us/app/straightish-sticker-pack/id1515608082?ls=1"><img src="images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.png" alt="Download on the App Store"/></a>
+			</div>
+		</div>
+		<div class="project">
 			<h2><span class="year">2020</span><span class="institution">University of Califorina, Chico</span></h2>
 			<h3 class="cred">CINS 465: Web Programming Fundamentals</h3>
 			<p class="detail">Technologies: HTML, CSS, Vue-JS, Django, Channels, Nginx, Docker, Google Cloud</p>
