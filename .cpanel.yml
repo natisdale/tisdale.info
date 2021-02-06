@@ -1,7 +1,7 @@
 ---
 deployment:
  tasks:
- - export DEPLOYPATH=/home/user/public_html/
+ - export DEPLOYPATH=/home/natisdal/public_html/
  - /bin/cp -R css $DEPLOYPATH
  - /bin/cp -R images $DEPLOYPATH
  - /bin/cp career.php $DEPLOYPATH
