@@ -19,6 +19,15 @@
 	</header>
 	<main>
 		<div class="project">
+			<h2><span class="year">2020</span><span class="institution">University of Califorina, Chico</span></h2>
+            		<h3 class="cred">CINS 548: Advanced Security</h3>
+			<p class="detail">Technologies: Raspian, Pyhton, Django, Scapy, Selenium, Rest, Syslog and SQL</p>
+            		<p class="detail">MyView was a Internet of Things team project which uses Scapy to identify user(s) presence and show the Dakboard of active users with debug and error logging to syslog.</p>
+			<div class="detail" id="cins548">
+				<a href="https://youtu.be/HqilVoYJWTM"><img src="images/cins548project.png" alt="Demo with syslog (no audio)"/></a>
+			</div>
+		</div>
+		<div class="project">
 			<h2><span class="year">2020</span><span class="institution">iMessage Stickers</span></h2>
 			<p class="detail">Summary: Sticker App for iMessage on iPhone/iPad devices</p>
 			<div class="detail" id="straightish">
