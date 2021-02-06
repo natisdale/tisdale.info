@@ -19,6 +19,10 @@
 	</header>
 	<main>
 		<div class="cert">
+			<h2><span class="year">2021</span><span class="institution">Microsoft<span class="super">2</span></span></h2>
+			<h3 class="cred"><a href="https://www.youracclaim.com/badges/b23c0a9f-3614-4178-9c65-a92bd0cf8eb8?source=linked_in_profile" title="Verify" target="_self">Microsoft Certified: Azure Foundations</a></h3>
+		</div>
+		<div class="cert">
 			<h2><span class="year">2015</span><span class="institution">ISC<span class="super">2</span></span></h2>
 			<h3 class="cred"><a href="https://www.isc2.org/MemberVerification?LastName=Tisdale&MemberNumber=462723" title="Verify" target="_self">Certified Secure Software Lifecycle Professional</a></h3>
 		</div>
