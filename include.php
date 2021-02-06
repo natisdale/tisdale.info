@@ -27,8 +27,8 @@ $footer = "
 			</a>
 		</li>
 		<li>
-			<a href='design-comp.psd.zip' title='Design Comp'>
-			<img src='images/Photoshop_CS4_Logo.png' width='256' height='256' alt='Ps'/> </a>
+			<a href='https://github.com/natisdale' title='GitHub'>
+			<img src='images/GitHub-Mark-Light-120px-plus.png' width='120' height='120' alt='git'/> </a>
 		</li>
 	</ul>
 	<div id='portrait'>
