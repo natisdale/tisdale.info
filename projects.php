@@ -23,7 +23,8 @@
             		<h3 class="cred">Curator</h3>
 			<p class="detail">Technologies: Python, Rest, SQL, tkinter</p>
             		<p class="detail">Python rest client for the New York Met Museum Open Access API</p>
-				<a href="https://natisdale.github.io/curator/"><img src="https://lucid.app/publicSegments/view/a0a86283-2144-4c98-81b4-93c183523ed8/image.jpeg" width="400" alt="block diagram"/></a>
+            <div class="detail" id="curator">
+                 	<a href="https://natisdale.github.io/curator/"><img src="https://lucid.app/publicSegments/view/a0a86283-2144-4c98-81b4-93c183523ed8/image.jpeg" width="400" alt="block diagram"/></a>
 			</div>
 		</div>
         <div class="project">
