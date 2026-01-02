@@ -100,7 +100,7 @@ nav a:hover {
 }
 
 nav a.active {
-  border-bottom-color: #ffffff;
+  border-bottom-color: #777777;
 }
 
 .hero {
@@ -146,6 +146,13 @@ nav a.active {
 .hero-image img {
   max-width: 100%;
   height: auto;
+  border-radius: 8px;
+}
+
+.hero-image iframe {
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 16/9;
   border-radius: 8px;
 }
 
@@ -198,6 +205,31 @@ nav a.active {
   .intro {
     width: 60%;
   }
+}
+
+.poster-images {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.poster-image {
+  flex: 1;
+  max-width: 300px;
+}
+
+.poster-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.poster-image figcaption {
+  text-align: center;
+  margin-top: 10px;
+  color: #cccccc;
+  font-size: 1rem;
 }
 
 footer {
